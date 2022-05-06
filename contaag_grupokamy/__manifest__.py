@@ -48,8 +48,8 @@
     # Siempre cargar
     'data': [
         'view/producto.xml',
-        'view/lote.xml',
-        'view/informe.xml',
+        #'view/lote.xml',
+        #'view/informe.xml',
     ],
 
     # Solo carga los datos de demostracion
